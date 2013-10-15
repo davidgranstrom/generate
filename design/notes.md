@@ -19,9 +19,10 @@
                 - Description
 
 * Primitives (sketch)
-    Everything is a stream.
-    A stream is either primitive or compound.
-    An expression defines a stream.
+
+    Everything is a stream.  
+    A stream is either primitive or compound.  
+    An expression defines a stream.  
 
 * Questions
     - Is time absolute or relative?

@@ -10,10 +10,10 @@
         - List of streams
             - Stream :: Input -> Time -> [Doubles]
                 - Attributes
-                - Channels :: Int
-                - Name :: String
+                    - Channels :: Int
+                    - Name :: String
         - List of sources
-            - SoundCloud + Channel number
+            - SoundCloud URL
             - [Live][audioinput]
                 - Name
                 - Description
